@@ -31,6 +31,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
+    margin-top: auto;
   }
   
   .icon {
@@ -57,4 +58,3 @@ body {
     align-self: center;
   }
 
-  }
